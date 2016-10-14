@@ -1,0 +1,16 @@
+{
+  "name": "unparse-headers",
+  "version": "1.0.0",
+  "description": "Node.js unparse headers middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "secondimpression/node-unparse-headers",
+  "author": "Steven Eksteen <steven@secondimpression.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/secondimpression/node-unparse-headers/issues"
+  },
+  "homepage": "https://github.com/secondimpression/node-unparse-headers#readme"
+}
