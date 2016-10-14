@@ -1,7 +1,7 @@
 {
   "name": "unparse-headers",
   "author": "Steven Eksteen <steven@secondimpression.net>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js unparse headers middleware",
   "keywords": [
     "http",
